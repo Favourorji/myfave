@@ -1,0 +1,8 @@
+#para1 {
+    color: white;
+}
+body {
+    background-image: url("flowers.jpg") ;
+    background-repeat: no-repeat;
+    object-fit: fill;
+}
